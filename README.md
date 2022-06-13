@@ -3,8 +3,9 @@
 https://www.linkedin.com/in/derekmurray-/
 ## About Me:
 
-#### Hey guys, I'm a full stack developer focusing on Front-End Development. 
-#### When I'm not coding, I'm:
+Hey guys, I'm a full stack developer focusing on Front-End Development. 
+
+When I'm not coding, I'm:
 - 👨‍👩‍👧‍👧 Spending time with family
 - 📚 Reading
 - 💪🏾 Working Out
@@ -12,4 +13,4 @@ https://www.linkedin.com/in/derekmurray-/
 
 ## Languages:
 
-#### React, JavaScript, Node.JS
+React, JavaScript, Node.JS
