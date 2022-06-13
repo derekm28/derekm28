@@ -5,10 +5,10 @@ https://www.linkedin.com/in/derekmurray-/
 
 #### Hey guys, I'm a full stack developer focusing on Front-End Development. 
 #### When I'm not coding, I'm:
-#### - 👨‍👩‍👧‍👧 Spending time with family
-#### - 📚 Reading
-#### - 💪🏾 Working Out
-#### - 🛫 Traveling
+- 👨‍👩‍👧‍👧 Spending time with family
+- 📚 Reading
+- 💪🏾 Working Out
+- 🛫 Traveling
 
 ## Languages:
 
