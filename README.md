@@ -13,4 +13,4 @@ When I'm not coding, I'm:
 
 ## Languages:
 
-React, JavaScript, Node.JS
+React, JavaScript, Express & Node.JS 
